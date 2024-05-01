@@ -5,11 +5,11 @@ import random
 app = Flask(__name__)
 
 phrases = [
-    "Sevval Ates is the most beautiful girl everr"
-    "The best way to live in the future is living with you"
-    "Sevval mean the world to me"
-    "Ates mean the life to me"
-    "I LOVE YOUUUUUUUUUUUU SEVVAAAAAAAAAAAAAAAAAAAL"
+    "Sevval Ates is the most beautiful girl everr",
+    "The best way to live in the future is living with you",
+    "Sevval mean the world to me",
+    "Ates mean the life to me",
+    "I LOVE YOUUUUUUUUUUUU SEVVAAAAAAAAAAAAAAAAAAAL",
 ]
 
 
